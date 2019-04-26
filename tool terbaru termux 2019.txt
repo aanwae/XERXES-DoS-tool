@@ -1,13 +1,4 @@
-KUMPULAN TOOL TERMUX TERBARU 2019 LENGKAP
-
-PENYUSUN:LILUNG(RIANTO)
-
-JIKA ADA MASALAH ATAU KENDALA SILAKAN HUBUNGI:
-
-FB:LILUNG
-IG:LILUNG_PROJECT
-YT:LILUNG PROJECT
-WA:083824483217
+Tools terbaru termux 2019
 
 1.NIK dan KK Gratis
 
@@ -136,7 +127,7 @@ $ cd FBshield
 $ python guard.py --user email/username kalian --password password/kata sandi kalian --enable
 
 contoh:
-$ python guard.py --user lilung project --password lilungproject --enable
+$ python guard.py --user aanwae --password lilungproject --enable
 
 jika ingin mematikan profil guard tinggal
 $ python guard.py --user email/username kalian --password password/kata sandi kalian --disable
